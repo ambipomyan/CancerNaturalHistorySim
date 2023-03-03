@@ -15,6 +15,11 @@ The total volume is 100000, for lower variance of the computation of the sensiti
 Besides, testing ages are 50, 60, and 70.
 The test results for the patients are marked with 0, 1 and -1, for not detected, detected and passed_away
 
+#### Compile and Run
+```
+Rscript sim.r
+```
+
 #### Evaluation
 ![evaluation](https://github.com/ambipomyan/CancerNaturalHistorySim/blob/main/chart.png)
 
