@@ -23,5 +23,5 @@ Rscript sim.r
 #### Evaluation
 ![evaluation](https://github.com/ambipomyan/CancerNaturalHistorySim/blob/main/chart.png)
 
-The horizontal axis is for combination of "goodness of the test and badness of the cancer": the lambda value is the 1/average_years for available to be detected and faital, respectively.
+The verticle axis is for "sensitivity", which is computed by TP/(TP+FN). The horizontal axis is for combination of "goodness of the test and badness of the cancer": the lambda value is the 1/average_years for available to be detected and faital, respectively.
 Good sensitivities can be observed when the test ability matches the power of cancer, i.e. lambda_onset >= lambda_sojourn, regardless of the ages.
