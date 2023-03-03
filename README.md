@@ -13,7 +13,7 @@ Then, #2 and #3 can be used to discribe the cancer, and #4 can be used to descri
 #### Simulation Settings
 The total volume is 100000, for lower variance of the computation of the sensitivities.
 Besides, testing ages are 50, 60, and 70.
-The test results for the patients are marked with 0, 1 and -1, for not detected, detected and passed_away
+The test results for the patients are marked with 0, 1 and -1, for not detected, detected and passed_away.
 
 #### Compile and Run
 ```
